@@ -72,5 +72,4 @@ Power BI Desktop (data model, DAX, visuals), Python/pandas (data cleaning).
 
 ## Author
 
-Kasthuri Kotla | https://www.linkedin.com/in/kasthuri-kotl
-a-192119313
+Kasthuri Kotla | https://www.linkedin.com/in/kasthuri-kotla-192119313
