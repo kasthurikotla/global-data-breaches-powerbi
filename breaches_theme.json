@@ -1,0 +1,31 @@
+{
+  "name": "Breaches Navy",
+  "dataColors": ["#1F3A5F", "#E4572E", "#2E86AB", "#F2A541", "#5C7A99", "#8FB8DE", "#A23B72", "#6B8F71"],
+  "background": "#FFFFFF",
+  "foreground": "#1B2A41",
+  "tableAccent": "#1F3A5F",
+  "good": "#2E8B57",
+  "neutral": "#F2A541",
+  "bad": "#E4572E",
+  "maximum": "#1F3A5F",
+  "center": "#8FB8DE",
+  "minimum": "#E8EEF5",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#1B2A41" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#44546A" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#1F3A5F" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{ "show": true, "fontColor": { "solid": { "color": "#1B2A41" } } }],
+        "border": [{ "show": false }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F4F6FA" } }, "transparency": 0 }]
+      }
+    }
+  }
+}
